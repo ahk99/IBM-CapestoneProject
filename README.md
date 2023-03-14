@@ -1,3 +1,3 @@
 # IBM-CapestoneProject
 
-this is just a trial
+Final project by IBM Data Scieence course from coursera.
